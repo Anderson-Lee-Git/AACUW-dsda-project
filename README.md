@@ -1,4 +1,4 @@
-# AACUW Project
+# AACUW Data Science/Data Analytics Project
 
 ## Target Group
 We would like to pitch this project idea to those members interested in exploring topics of data science, analytics, visualization, and machine learning. We want to include all members with varying degrees of experience and provide a learning opportunity as well as a final product. This will be an opportunity open to all members of the AACUW, including members of different class standings (freshmen to seniors). This is also open to members of varying experience, including those with little to no coding experience. 
