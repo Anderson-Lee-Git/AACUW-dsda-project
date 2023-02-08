@@ -25,7 +25,13 @@ After your preparation from phase 1 or you just join us with the required skills
 ### Phase 1 - Preparation
 - Section 1: Python basics WORKSHOP 1 (During Meeting, Week 2)
 - Section 2: pandas WORKSHOP 2 (During Meeting, Week 3)
-- More coming soon…
+- Section 3: Introduction to Machine Learning WORKSHOP 3
+- Concept Check: [College Dataset](https://www.kaggle.com/datasets/flyingwombat/us-news-and-world-reports-college-data)
+  - [Tasks](https://colab.research.google.com/drive/1LnfexVTchS-3kpeexUqmObyWjNKKFU_u#scrollTo=ZaC02qBgSgAe)
+- Dataset Practice: [Stocks Market Dataset](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset)
+  - Data visualization
+  - Machine Learning
+  - Presentation
 
 ## Resources
 ### Python
