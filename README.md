@@ -24,7 +24,7 @@ After your preparation from phase 1 or you just join us with the required skills
 
 ### Phase 1 - Preparation
 - Section 1: Python basics WORKSHOP 1 (During Meeting, Week 2)
-- Section 2: pandas WORKSHOP 2 (During Meeting, Week 3)
+- Section 2: `pandas` WORKSHOP 2 (During Meeting, Week 3)
 - Section 3: Introduction to Machine Learning WORKSHOP 3
 - Concept Check: [College Dataset](https://www.kaggle.com/datasets/flyingwombat/us-news-and-world-reports-college-data)
   - [Tasks](https://colab.research.google.com/drive/1LnfexVTchS-3kpeexUqmObyWjNKKFU_u#scrollTo=ZaC02qBgSgAe)
@@ -33,27 +33,29 @@ After your preparation from phase 1 or you just join us with the required skills
   - Machine Learning
   - Presentation
 
+### Phase 2 - Application
+
 ## Resources
 ### Python
-- [Kaggle] Introduction to Programming
+- [Kaggle] [Introduction to Programming](https://www.kaggle.com/learn/intro-to-programming)
   - Introduction tutorial for programming not limited to Python 
-- [Kaggle] Python Programming
+- [Kaggle] [Python Programming](https://www.kaggle.com/learn/python)
   - Introduction to Python specifically including syntax and external libraries
-- [Kaggle] Pandas
+- [Kaggle] [Pandas](https://www.kaggle.com/learn/pandas)
   - Introduction to Pandas, an external library in Python for data manipulation
-- [Official Doc] Python Documentation
+- [Official Doc] [Python Documentation](https://docs.python.org/3/)
   - The master official documentation for every feature you can find in Python
     Look up if you need (Do not read all of them) 
-- [CSE163] Common Syntax Cheat Sheet
+- [CSE163] [Common Syntax Cheat Sheet](https://courses.cs.washington.edu/courses/cse163/22sp/resources/python-cheat-sheet.pdf)
   - The overall common syntax you need in Python
-- [CSE163] Code Quality
+- [CSE163] [Code Quality](https://courses.cs.washington.edu/courses/cse163/22sp/resources/code_quality/)
   - Although we don’t focus on code quality in this project, we do expect a certain level of code quality so that your teammates can understand your code.
 
-### Machine Learning(sklearn)
-- [Kaggle] Introduction to Machine Learning
-- [Scikit-learn Doc] Getting Started Here
+### Machine Learning(`sklearn`)
+- [Kaggle] [Introduction to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+- [Scikit-learn Doc] [Getting Started Here](https://scikit-learn.org/stable/getting_started.html)
 
-### Data Visualization(seaborn)
+### Data Visualization(`seaborn`)
 
 
 
